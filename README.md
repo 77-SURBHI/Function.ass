@@ -1,0 +1,2 @@
+# Function.ass
+function ass
